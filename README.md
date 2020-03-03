@@ -1,12 +1,9 @@
-# digital-humanities-spring
-Digital Humanities Projects, Spring 2020
-
 <html>
 <head> <title> Practice: First Take </title> </head>
 <body>
 <h1 align="center">The Age of Surveillance Capitalism by Shoshana Zuboff</h1>
 <h4 align="center">Reading Response, Chapter 7</h4>
-
+        <body>
         <h5> Note - 7 The Reality Business > Page 201 · Location 3648 </h5>
             <p> In order to discuss how and why surveillance capitalist companies such as Google/Apple/etc. lok to the future (of tech, of their wealth), Zuboff turns to discussing "economics of scale" and "economies of action." Starting with scope, Zuboff writes: "The shift toward economies of scope defines a new set of aims: behavioral surplus must be vast, but it must also be varied. These variations are developed along two dimensions. The first is the extension of extraction operations from the virtual world into the “real” world, where we actually live our actual lives." (201) The second dimension economies of scope occur in is "depth;" Zuboff writes: "The idea here is that highly predictive, and therefore highly lucrative, behavioral surplus would be plumbed from the intimate patterns of the self," like moods, personality, and vulnerabilities (201). In other words, the two important economies of scope are 1) extension into unknown territory to expand the region/availability of data, and 2) plumbing deeper into already available entry points, like the mind of its users.</p>
         <h5> Note - 7 The Reality Business > Page 202 · Location 3661 </h5>
@@ -20,4 +17,4 @@ Digital Humanities Projects, Spring 2020
         <h5> Note - 7 The Reality Business > Page 221 · Location 4019 </h5>
             <p>"This is not the automation of society, as some might think, but rather the replacement of society with machine action dictated by economic imperatives." (221) Good quote.</p>
     </body>
-    </html>
+
