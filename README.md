@@ -1,5 +1,6 @@
 <html>
 <head> Practice: First Take </head>
+        <br/>
 <body>
 <h1 align="center">The Age of Surveillance Capitalism by Shoshana Zuboff</h1>
 <h4 align="center">Reading Response, Chapter 7</h4>
