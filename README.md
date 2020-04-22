@@ -1,11 +1,9 @@
 # MY NETWORK: Responding to the Coronavirus
-Digital Humanities Projects, Spring 2020 <br>
-This project was sourced from my friends, family, and fellow students. In this time of crisis, communication adn connection are essential needs, but the inability to be with one another in person due to the risk of infection means that those needs (among many others) are unmet.<br> 
-Each of the entries are a response by an anonymous participant. 
+<br><i>This project was sourced from my friends, family, and fellow students. In this time of crisis, communication adn connection are essential needs, but the inability to be with one another in person due to the risk of infection means that those needs (among many others) are unmet.</i><br> <br>
+Each of the entries are a response by an anonymous participant. <br>
 <html>
-<head> <title> March to April, 2020 </title> </head>
+<head> </head>
 <body>
-<h1 align="center">MY NETWORK: Responding to the Coronavirus </h1>
 <h4 align="center">a page for public venting, grieving, and feeling in this time of crisis</h4>
     <body>
         <h5> Entry 1: How am I feeling? </h5>
