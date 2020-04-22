@@ -1,21 +1,27 @@
+# digital-humanities-spring
+Digital Humanities Projects, Spring 2020 <br>
+This project was sourced from my friends, family, and fellow students. In this time of crisis, communication adn connection are essential needs, but the inability to be with one another in person due to the risk of infection means that those needs (among many others) are unmet.<br> 
+Each of the entries are a response by an anonymous participant. 
 <html>
-<head> Practice: First Take </head>
-        <br/>
+<head> <title> March to April, 2020 </title> </head>
 <body>
-<h1 align="center">The Age of Surveillance Capitalism by Shoshana Zuboff</h1>
-<h4 align="center">Reading Response, Chapter 7</h4>
-        <body>
-        <h5> Note - 7 The Reality Business > Page 201 · Location 3648 </h5>
-            <p> In order to discuss how and why surveillance capitalist companies such as Google/Apple/etc. lok to the future (of tech, of their wealth), Zuboff turns to discussing "economics of scale" and "economies of action." Starting with scope, Zuboff writes: "The shift toward economies of scope defines a new set of aims: behavioral surplus must be vast, but it must also be varied. These variations are developed along two dimensions. The first is the extension of extraction operations from the virtual world into the “real” world, where we actually live our actual lives." (201) The second dimension economies of scope occur in is "depth;" Zuboff writes: "The idea here is that highly predictive, and therefore highly lucrative, behavioral surplus would be plumbed from the intimate patterns of the self," like moods, personality, and vulnerabilities (201). In other words, the two important economies of scope are 1) extension into unknown territory to expand the region/availability of data, and 2) plumbing deeper into already available entry points, like the mind of its users.</p>
-        <h5> Note - 7 The Reality Business > Page 202 · Location 3661 </h5>
-            <p> For the second part of her analysis in this chapter, Zuboff focuses on "economies of action," which she describes as the process of machines being "configured to intervene in the state of play in the real world," or, in other words, machines working to "nudge, tune, herd, manipulate, and modify behavior in specific directions by executing actions as subtle as inserting a specific phrase into your Facebook news feed..." (201). This moves an online world into the real -- what Zuboff calls a "reality business," wherein machine-based architectures now have impact on the real world. Zuboff calls this the "execution architecture," a structure by which "economic objectives are imposed upon the vast and varied field of behavior" (202). </p>
-        <h5> Note - 7 The Reality Business > Page 211 · Location 3821 </h5>
-            <p>I think that I am reading this right: "Because the apparatus of connected things is intended to be everything, any behavior of human or thing absent from this push for universal inclusion is dark: menacing, untamed, rebellious, rogue, out of control." (210) Or, in other words--any data that cannot be catalogued, any behaviors that are "unseen," are considered "dark data." This would indicate that "dark data" is potentially even dangerous in its invisibility; I think this sentiment plays on the paranoia of the populace.</p>
-        <h5> Note - 7 The Reality Business > Page 212 · Location 3845 </h5>
-            <p> "From the vantage point of surveillance capitalism and its economic imperatives, world, self, and body are reduced to the permanent status of objects as they disappear into the bloodstream of a titanic new conception of markets." (212) Objects as in flat data, but also objects as in no longer human; this reduces the feeling of immorality when manipulating/taking advantage of behavior.</p>
-        <h5> Note - 7 The Reality Business > Page 218 · Location 3973 </h5>
-            <p> After a long example of her point on economies of scope and action via auto insurance companies, Zuboff summarizes her argument with the following: "Drivers are persuaded, induced, incentivized, or coerced into a quid pro quo that links pricing to the expansion of a real-world extraction/execution architecture aimed at new behavioral surplus flows... surplus drawn from the driver's experience is repurposed as the means to shape and compel the driver's experience for the sake of guaranteed outcomes" (218). In other words, drivers will modify their behavior intentionally in order to lower their personal costs by aligning with the preferences/rules of the company, which in effect serves to benefit the insurance company. </p>
-        <h5> Note - 7 The Reality Business > Page 221 · Location 4019 </h5>
-            <p>"This is not the automation of society, as some might think, but rather the replacement of society with machine action dictated by economic imperatives." (221) Good quote.</p>
+<h1 align="center">MY NETWORK: Responding to the Coronavirus </h1>
+<h4 align="center">a page for public venting, grieving, and feeling in this time of crisis</h4>
+    <body>
+        <h5> Entry 1: How am I feeling? </h5>
+            <p> I am feeling a mixture of emotions. They change from moment to moment and day to day. Worried. Calm. Stressed. Relaxed. Appalled. Distracted. Sad. Entertained. Disappointed. Focused. Vulnerable. Proud. Insignificant. Loved. Devastated. Hopeful. <br>Coronavirus has made me more appreciative of the small, simple things in life — going out to eat, working on my computer in a café, having a game night with friends. It has also made me realize just how many aspects of life as we know it are inessential and non-guaranteed. I feel more connected to all of humanity than ever since this is a uniquely shared experience. <br>I am predicting that it will take awhile to return to any sense of normalcy. I think, and hope, that people will have a newly found appreciation for many things, including just the opportunity to be alive. I think that everyone who endured this will be forever influenced by this, in some way or another. I am looking forward to spending time with my family and friends and traveling. </p>
+            <br>
+        <h5> Entry 2: Things Have Been Rough </h5>
+            <p> After having to have emergency surgery in this craziness, having my 7 year old constantly has been a struggle as well. Financially we aren’t stressed out because Tim is an essential worker. Life has not changed, not really, besides having my son home at all times. <br>In the future I am hoping that we learn from this and are more medically equip for issues like this in the future. But I think that some of the changes are good. Pollution in the air is clearing up, at national parks animals are repopulating. I am most looking forward to spending time with friends and family again with our worry.<br>
+ </p>
+        <h5> Entry 3: Hope for a Return to Normal </h5>
+            <p>: Honestly, I'm annoyed. I know the virus is nothing to take lightly, but it's annoying to see hours reduced at stores, not being able to shake hands, not be able to get toilet paper, etc. <br>How has it changed my life/perspective? I feel that it hasn't really changed my perspective much. I do wonder sometimes if this is what it's like to live in a small town that doesn't get a lot of shipments in to stock what I would normally consider essential. It's changed my life in the way that I cannot prospect to people for real estate. I am an in person solicitator and I'm good at it. I'm not very good at trying to solicitator business digitally. <br>I predict that it will last longer than anyone anticipates. And that digital communication will become more of a norm. Those that are introverted will become more so because they have figured out a way to do so. And delivery will become even bigger than it was before. <br>Really, I'm looking forward for it to end. I would like to be able to see my friends and family without much lashback. I look forward to a vaccine so that we CAN go back to normal. And I look forward to seeing how it changes the world and how the world operates.</p>
+        <h5> Entry 4: Bombard Our Communities </h5>
+            <p> I'm feeling tressed, not financially, but stressed for my children. They love going to daycare, and we just started to have LPS come out for visits for my daughter. To help her and us teach her! In all honestly the virus hasn’t changed my perspective on life, besides, now I feel I’m home to do more projects I’ve wanted to finish, but my day revolves around my children. <br>It may be months at hand, but I’m hoping a vaccine is created, and well have a little COVID parade and bombard our favorite restaurants and movie theaters, and tell our family and friends we love them more. <br>I'm looking forward to my kids going back to daycare, and I can’t wait to have someone more professional help us in the world of Autism. And a normal sleep routine for everyone, waking up at 2 am the last few nights with a child is exhausting!
+</p>
+        <h5> x </h5>
+            <p> y </p>
+        <h5> x </h5>
+            <p>y</p>
     </body>
-
+    </html>
