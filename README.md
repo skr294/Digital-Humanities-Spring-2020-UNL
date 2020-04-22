@@ -1,10 +1,10 @@
 # MY NETWORK: Responding to the Coronavirus
 <br><i>This project was sourced from my friends, family, and fellow students. In this time of crisis, communication adn connection are essential needs, but the inability to be with one another in person due to the risk of infection means that those needs (among many others) are unmet.</i><br> <br>
-Each of the entries are a response by an anonymous participant. <br>
+<i>Each of the entries are a response by an anonymous participant. </i><br><br><br>
 <html>
 <head> </head>
 <body>
-<h4 align="center">a page for public venting, grieving, and feeling in this time of crisis</h4>
+<h3 align="center">a page for public venting, grieving, and feeling in this time of crisis</h3>
     <body>
         <h5> Entry 1: How am I feeling? </h5>
             <p> I am feeling a mixture of emotions. They change from moment to moment and day to day. Worried. Calm. Stressed. Relaxed. Appalled. Distracted. Sad. Entertained. Disappointed. Focused. Vulnerable. Proud. Insignificant. Loved. Devastated. Hopeful. <br>Coronavirus has made me more appreciative of the small, simple things in life — going out to eat, working on my computer in a café, having a game night with friends. It has also made me realize just how many aspects of life as we know it are inessential and non-guaranteed. I feel more connected to all of humanity than ever since this is a uniquely shared experience. <br>I am predicting that it will take awhile to return to any sense of normalcy. I think, and hope, that people will have a newly found appreciation for many things, including just the opportunity to be alive. I think that everyone who endured this will be forever influenced by this, in some way or another. I am looking forward to spending time with my family and friends and traveling. </p>
