@@ -1,4 +1,4 @@
-# digital-humanities-spring
+# MY NETWORK: Responding to the Coronavirus
 Digital Humanities Projects, Spring 2020 <br>
 This project was sourced from my friends, family, and fellow students. In this time of crisis, communication adn connection are essential needs, but the inability to be with one another in person due to the risk of infection means that those needs (among many others) are unmet.<br> 
 Each of the entries are a response by an anonymous participant. 
