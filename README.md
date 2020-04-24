@@ -21,7 +21,7 @@
 Sleep? Sleep is treacherous, unpeaceful, stacchato.  A sinkhole of anxiety ridden thoughts, dreams, terrors.  Who will succomb? Will it be someone in my family? Will it be me? Will I have time to write and compose, not only a makeshift will, but my love for my children on paper?  Will I be able to convey just how much they mean to me, just how much I do not want to leave before my time? <br><br>
 There are many ways to die.  I realize that death is inevitable.  But to die alone, to die suffering, to die without holding your loved one’s hand, to die without saying goodbye, to die and have your body placed in a semi-truck piled along with the others, stacks upon stacks, no funerals, just the end.  This is not the way any of us would hope to end. <br><br>
 Hope.  There is hope.  There is Hope.  There are people helping others, there is music, there are brave and tireless healthcare workers, grocery store workers, restaurant workers, volunteers and many more.  There is hope in the earth healing.  Will we survive? Will we learn from this passage in history? Only Time will reveal that answer.  And I, I hope selfishly, that my family and I will see that future. 
- </p><br>
+ </p><br><br>
         <h5> x </h5>
             <p>y</p>
     </body>
