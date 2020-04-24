@@ -16,8 +16,12 @@
         <h5> Entry 4: Bombard Our Communities </h5>
             <p> I'm feeling tressed, not financially, but stressed for my children. They love going to daycare, and we just started to have LPS come out for visits for my daughter. To help her and us teach her! In all honestly the virus hasn’t changed my perspective on life, besides, now I feel I’m home to do more projects I’ve wanted to finish, but my day revolves around my children. <br><br>It may be months at hand, but I’m hoping a vaccine is created, and well have a little COVID parade and bombard our favorite restaurants and movie theaters, and tell our family and friends we love them more. <br><br>I'm looking forward to my kids going back to daycare, and I can’t wait to have someone more professional help us in the world of Autism. And a normal sleep routine for everyone, waking up at 2 am the last few nights with a child is exhausting!
 </p>
-        <h5> x </h5>
-            <p> y </p>
+        <h5> Entry 5: There is Hope </h5>
+            <p>The sun is shining, the birds are singing, a warm cat is snuggled next to me.  For a moment, just a moment, all is well with the world. And then I remember. And then I look at my phone. And then I wonder how my family, all in different places, I wonder if they are alright.  Are they sick? Is it allergies? Have they been careful? Are they washing their hands? Are they wearing their masks? Are they limiting going out in public? 
+Sleep? Sleep is treacherous, unpeaceful, stacchato.  A sinkhole of anxiety ridden thoughts, dreams, terrors.  Who will succomb? Will it be someone in my family? Will it be me? Will I have time to write and compose, not only a makeshift will, but my love for my children on paper?  Will I be able to convey just how much they mean to me, just how much I do not want to leave before my time? 
+There are many ways to die.  I realize that death is inevitable.  But to die alone, to die suffering, to die without holding your loved one’s hand, to die without saying goodbye, to die and have your body placed in a semi-truck piled along with the others, stacks upon stacks, no funerals, just the end.  This is not the way any of us would hope to end.
+Hope.  There is hope.  There is Hope.  There are people helping others, there is music, there are brave and tireless healthcare workers, grocery store workers, restaurant workers, volunteers and many more.  There is hope in the earth healing.  Will we survive? Will we learn from this passage in history? Only Time will reveal that answer.  And I, I hope selfishly, that my family and I will see that future. 
+ </p><br>
         <h5> x </h5>
             <p>y</p>
     </body>
