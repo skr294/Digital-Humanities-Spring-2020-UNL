@@ -28,4 +28,51 @@ Hope.  There is hope.  There is Hope.  There are people helping others, there is
         <h5> Entry 7: Quarantine Dreams </h5>
         <p> In a way, how everyone feels during this pandemic is likely how I should feel all the time. With a compromised immune system, I get sick often. Whenever I hear someone in my vicinity is ill, I always assume I will shortly follow. Weirdly enough, that hasn’t been my experience for a bit. I haven’t gotten ill in nearly a year. When my coworkers got the flu this winter, I didn’t. When my hair stylist was ill while I spent four hours with her as she took my hair from red to blonde, I didn’t get sick. When my boyfriend, who I kiss and sleep next to every night, was ill recently, I still didn’t get sick. <br> <br> In a way, it’s a lot more frightening to have this healthy departure from normal. I cannot say why it happened. Maybe it’s because I primarily only drink water now. Maybe it’s because I’ve actually started exercising regularly. Maybe it’s because I have changed my diet. I don’t really know. Either way, I haven’t suffered as much as I’m used to, and I don’t want not-suffering to become my baseline in case the suffering comes back. <br> <br> Which leads me into covid-19. The second I heard about it’s spread to the U.S., I assumed I would get it. I assumed it would be like the flu, like the time I got swine flu, and I would suffer for a week or two and then it would be over. I wasn’t worried. <br> <br> That changed primarily when I spoke to my friend who had recently graduated from medical school. Maybe it was because, even over text, I could hear the panic in her voice. I realized this is different. I realized that, despite me being an otherwise healthy young adult, that this could kill me. Or hospitalize me. Or permanently damage my lungs. Now, I feel a lot more afraid. <br> <br> I’m a homebody in general. I didn’t go out much and dreaded having plans before this. I miss it now, the plans I always wanted to cancel on I now wish I could do. I feel more scared, more vulnerable than ever before, and it also makes me angry. I’ve felt a lot of anger in quarantine, a lot of ennui, and a lot of regret I didn’t do things differently. They’re all pointless emotions, as they do not fix anything and I can’t change anything at the moment. Still, they cloud my thoughts every day. <br> <br> Every time I dream, I dream an alternate reality version of my past, where things are different and work out better. These quarantine dreams haunt me when I wake up. I try not to think about it. There isn’t much else to say.</p>
     </body>
-    </html>
+    <h5> Entry 8: I Want Zombies! </h5>
+    <p> As far as the personal impact of the virus, things have stayed relatively the same. I am fortunate
+enough to be in a situation where I don’t have bills to pay or any recurring payments. I’m an
+actor (which that kinda sucks) so by the time this all started I was making plans to move out of
+state for a contract, which has been suspended indefinitely at the moment. So the good news
+was that I already had things squared up here; the bad news, I don’t know if my contract will
+happen. I’ve never really been a person to dwell on things so while the lack of certainty on my
+future does present some problems, whatever happens, happens and I will roll with the
+punches. <br><br> Now on a larger scale, I think it’s interesting seeing different countries approach to the
+virus and the reception of those actions (both globally and by their citizens). As well as the
+opinions on the severity of it. There’s no doubt that the virus is a real thing and is affecting
+everyone on a global scale; now will it end soon? Who knows. I certainly hope it does but for the
+immediate future, it looks like it’s here to stay and even past that may just be apart of our lives
+forever. That does sound super grim and depressing but I also think that as time goes on we will
+learn more about the inner workings of this bad boy and then build a working vaccine or that we
+develop a herd immunity towards it. Who knows when either of those will happen so for now just
+gotta live day to day and stay updated on future developments as they arise. <br><br>Lastly, next time
+this shit happens, I want zombies! I rest my case, your honor.</p><br><br>
+    <h5> Entry 10: If I Survive</h5>
+      <p> When I was forced into social isolation, there was no handbook. There was no message of
+togetherness or solidarity or hope. There were negative judgements and comments. Friends
+began to forget me, because it was easier than changing how we spend time together.
+I was diagnosed with epilepsy and a rare autoimmune disease ten years ago. With an
+uncontrolled seizure disorder, I could no longer drive and risked having a seizure every time I
+ventured out of the house. With an autoimmune disease, immune suppressing drugs meant
+hand washing, cleaning surfaces, wearing masks and social distancing were often second
+nature. <br> <br>
+When the coronavirus hit, it felt like the world that chose to ignore people who have to live like
+me joined me on my couch. Articles about how to "survive" a quarantine were everywhere, filled
+with much of the advice I had to learn the hard way. For me, the pendulum swings between
+feelings of bitterness and hope that now, people might understand. For years, I've had to fight like hell for reasonable accommodations that would allow me to learn or work. Accommodations that include some degree of remote learning or working. Overnight,
+businesses and schools restructured their operations to allow as many people as possible work
+and learn from home. Again, my feelings are divided. Why couldn't my school, with the
+capability to accommodate my disability, take the time to work with me, and those like me? I
+also desperately hope that the changes forced by this pandemic become commonplace in our
+schools and workplaces. <br> <br>
+That is, if I survive. I would be foolish to think this disease will pass over me and my house,
+despite our vigilance. I pray it will spare me and those I love, or that if it does not, it is mild. But
+realistically as a high risk person, as a disabled person, I'm terrified. Our culture has a history of
+ignoring disabled people, and sometimes worse. I've read more than one article in major papers
+and seen people speak on television networks about the deaths of high risk people as an
+acceptable loss to open the economy. Worse still, as we've seen in hard hit countries around the world, I'm terrified if we need to ration care. If doctors are forced to choose between my life and someone who is healthy, will I be
+denied care? <br><br>
+It's already become clear that people with chronic illnesses and disabilities are being denied
+critical care or medication. Lupus patients are being denied hydroxychloroquine refills. Other
+patients are having necessary procedures or in-clinic treatments cancelled to reserve resources.
+Despite all of this, I'm hopeful. One thing I could add to a survival guide is that hope is
+necessary to survival, especially in the darkest times of our lives. </p>
